@@ -14,7 +14,8 @@
     "@react-native-oh/react-native-harmony": "^0.72.53-1",
     "react": "18.2.0",
     "react-native": "0.72.5",
-    "react-native-harmony": "file:../ohos_react_native/react-native-harmony/rnoh-react-native-harmony-0.72.58.tgz"
+    "react-native-harmony": "file:../ohos_react_native/react-native-harmony/rnoh-react-native-harmony-0.72.58.tgz",
+    "react-native-linear-gradient": "^2.8.3"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
